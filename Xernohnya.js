@@ -14,4 +14,4 @@ beepBop.events = new Discord.Collection();
 })
 
 // logging into discord bot KEEP AT END OF FILE
-beepBop.login('ODE5NDUyOTI4MjEzMjU0MTg1.YEm1Ag.mKbXi6Rpb53qQNznLrGCquK7o4c');
+beepBop.login('***bottokenhere***');
